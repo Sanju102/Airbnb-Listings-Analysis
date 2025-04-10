@@ -1,0 +1,231 @@
+id,neighbourhood,neighbourhood_group
+1,Allerton,Bronx
+2,Baychester,Bronx
+3,Belmont,Bronx
+4,Bronxdale,Bronx
+5,Castle Hill,Bronx
+6,City Island,Bronx
+7,Claremont Village,Bronx
+8,Clason Point,Bronx
+9,Concourse,Bronx
+10,Concourse Village,Bronx
+11,Co-op City,Bronx
+12,Country Club,Bronx
+13,Eastchester,Bronx
+14,East Morrisania,Bronx
+15,Edenwald,Bronx
+16,Fieldston,Bronx
+17,Fordham,Bronx
+18,Highbridge,Bronx
+19,Hunts Point,Bronx
+20,Kingsbridge,Bronx
+21,Longwood,Bronx
+22,Melrose,Bronx
+23,Morrisania,Bronx
+24,Morris Heights,Bronx
+25,Morris Park,Bronx
+26,Mott Haven,Bronx
+27,Mount Eden,Bronx
+28,Mount Hope,Bronx
+29,North Riverdale,Bronx
+30,Norwood,Bronx
+31,Olinville,Bronx
+32,Parkchester,Bronx
+33,Pelham Bay,Bronx
+34,Pelham Gardens,Bronx
+35,Port Morris,Bronx
+36,Riverdale,Bronx
+37,Schuylerville,Bronx
+38,Soundview,Bronx
+39,Spuyten Duyvil,Bronx
+40,Throgs Neck,Bronx
+41,Tremont,Bronx
+42,Unionport,Bronx
+43,University Heights,Bronx
+44,Van Nest,Bronx
+45,Wakefield,Bronx
+46,Westchester Square,Bronx
+47,West Farms,Bronx
+48,Williamsbridge,Bronx
+49,Woodlawn,Bronx
+50,Bath Beach,Brooklyn
+51,Bay Ridge,Brooklyn
+52,Bedford-Stuyvesant,Brooklyn
+53,Bensonhurst,Brooklyn
+54,Bergen Beach,Brooklyn
+55,Boerum Hill,Brooklyn
+56,Borough Park,Brooklyn
+57,Brighton Beach,Brooklyn
+58,Brooklyn Heights,Brooklyn
+59,Brownsville,Brooklyn
+60,Bushwick,Brooklyn
+61,Canarsie,Brooklyn
+62,Carroll Gardens,Brooklyn
+63,Clinton Hill,Brooklyn
+64,Cobble Hill,Brooklyn
+65,Columbia St,Brooklyn
+66,Coney Island,Brooklyn
+67,Crown Heights,Brooklyn
+68,Cypress Hills,Brooklyn
+69,Downtown Brooklyn,Brooklyn
+70,DUMBO,Brooklyn
+71,Dyker Heights,Brooklyn
+72,East Flatbush,Brooklyn
+73,East New York,Brooklyn
+74,Flatbush,Brooklyn
+75,Flatlands,Brooklyn
+76,Fort Greene,Brooklyn
+77,Fort Hamilton,Brooklyn
+78,Gerritsen Beach,Brooklyn
+79,Gowanus,Brooklyn
+80,Gravesend,Brooklyn
+81,Greenpoint,Brooklyn
+82,Kensington,Brooklyn
+83,Manhattan Beach,Brooklyn
+84,Midwood,Brooklyn
+85,Mill Basin,Brooklyn
+86,Navy Yard,Brooklyn
+87,Park Slope,Brooklyn
+88,Prospect Heights,Brooklyn
+89,Prospect-Lefferts Gardens,Brooklyn
+90,Red Hook,Brooklyn
+91,Sea Gate,Brooklyn
+92,Sheepshead Bay,Brooklyn
+93,South Slope,Brooklyn
+94,Sunset Park,Brooklyn
+95,Vinegar Hill,Brooklyn
+96,Williamsburg,Brooklyn
+97,Windsor Terrace,Brooklyn
+98,Battery Park City,Manhattan
+99,Chelsea,Manhattan
+100,Chinatown,Manhattan
+101,Civic Center,Manhattan
+102,East Harlem,Manhattan
+103,East Village,Manhattan
+104,Financial District,Manhattan
+105,Flatiron District,Manhattan
+106,Gramercy,Manhattan
+107,Greenwich Village,Manhattan
+108,Harlem,Manhattan
+109,Hell's Kitchen,Manhattan
+110,Inwood,Manhattan
+111,Kips Bay,Manhattan
+112,Little Italy,Manhattan
+113,Lower East Side,Manhattan
+114,Marble Hill,Manhattan
+115,Midtown,Manhattan
+116,Morningside Heights,Manhattan
+117,Murray Hill,Manhattan
+118,NoHo,Manhattan
+119,Nolita,Manhattan
+120,Roosevelt Island,Manhattan
+121,SoHo,Manhattan
+122,Stuyvesant Town,Manhattan
+123,Theater District,Manhattan
+124,Tribeca,Manhattan
+125,Two Bridges,Manhattan
+126,Upper East Side,Manhattan
+127,Upper West Side,Manhattan
+128,Washington Heights,Manhattan
+129,West Village,Manhattan
+130,Arverne,Queens
+131,Astoria,Queens
+132,Bayside,Queens
+133,Bayswater,Queens
+134,Bay Terrace,Queens
+135,Belle Harbor,Queens
+136,Bellerose,Queens
+137,Breezy Point,Queens
+138,Briarwood,Queens
+139,Cambria Heights,Queens
+140,College Point,Queens
+141,Corona,Queens
+142,Ditmars Steinway,Queens
+143,Douglaston,Queens
+144,East Elmhurst,Queens
+145,Edgemere,Queens
+146,Elmhurst,Queens
+147,Far Rockaway,Queens
+148,Flushing,Queens
+149,Forest Hills,Queens
+150,Fresh Meadows,Queens
+151,Glendale,Queens
+152,Glen Oaks,Queens
+153,Hollis,Queens
+154,Hollis Hills,Queens
+155,Holliswood,Queens
+156,Howard Beach,Queens
+157,Jackson Heights,Queens
+158,Jamaica,Queens
+159,Jamaica Estates,Queens
+160,Jamaica Hills,Queens
+161,Kew Gardens,Queens
+162,Kew Gardens Hills,Queens
+163,Laurelton,Queens
+164,Little Neck,Queens
+165,Long Island City,Queens
+166,Maspeth,Queens
+167,Middle Village,Queens
+168,Neponsit,Queens
+169,Ozone Park,Queens
+170,Queens Village,Queens
+171,Rego Park,Queens
+172,Richmond Hill,Queens
+173,Ridgewood,Queens
+174,Rockaway Beach,Queens
+175,Rosedale,Queens
+176,South Ozone Park,Queens
+177,Springfield Gardens,Queens
+178,St. Albans,Queens
+179,Sunnyside,Queens
+180,Whitestone,Queens
+181,Woodhaven,Queens
+182,Woodside,Queens
+183,Arden Heights,Staten Island
+184,Arrochar,Staten Island
+185,"Bay Terrace, Staten Island",Staten Island
+186,Bloomfield,Staten Island
+187,Bull's Head,Staten Island
+188,Castleton Corners,Staten Island
+189,Charleston,Staten Island
+190,"Chelsea, Staten Island",Staten Island
+191,Clifton,Staten Island
+192,Concord,Staten Island
+193,Dongan Hills,Staten Island
+194,Eltingville,Staten Island
+195,Emerson Hill,Staten Island
+196,Fort Wadsworth,Staten Island
+197,Graniteville,Staten Island
+198,Grant City,Staten Island
+199,Great Kills,Staten Island
+200,Grymes Hill,Staten Island
+201,Howland Hook,Staten Island
+202,Huguenot,Staten Island
+203,Lighthouse Hill,Staten Island
+204,Mariners Harbor,Staten Island
+205,Midland Beach,Staten Island
+206,New Brighton,Staten Island
+207,New Dorp,Staten Island
+208,New Dorp Beach,Staten Island
+209,New Springville,Staten Island
+210,Oakwood,Staten Island
+211,Pleasant Plains,Staten Island
+212,Port Ivory,Staten Island
+213,Port Richmond,Staten Island
+214,Prince's Bay,Staten Island
+215,Randall Manor,Staten Island
+216,Richmondtown,Staten Island
+217,Rosebank,Staten Island
+218,Rossville,Staten Island
+219,Shore Acres,Staten Island
+220,Silver Lake,Staten Island
+221,South Beach,Staten Island
+222,Stapleton,Staten Island
+223,St. George,Staten Island
+224,Todt Hill,Staten Island
+225,Tompkinsville,Staten Island
+226,Tottenville,Staten Island
+227,West Brighton,Staten Island
+228,Westerleigh,Staten Island
+229,Willowbrook,Staten Island
+230,Woodrow,Staten Island
