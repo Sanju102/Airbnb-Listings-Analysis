@@ -1,9 +1,9 @@
 import pandas as pd
 
 # Load raw CSVs
-listings = pd.read_csv('listings.csv')
-reviews = pd.read_csv('reviews.csv')
-neighbourhoods = pd.read_csv('neighbourhoods.csv')
+listings = pd.read_csv('raw_data/listings.csv')
+reviews = pd.read_csv('raw_data/reviews.csv')
+neighbourhoods = pd.read_csv('raw_data/neighbourhoods.csv')
 
 # ---------- HOSTS ----------
 hosts=listings.copy()[['host_id','host_name']]
