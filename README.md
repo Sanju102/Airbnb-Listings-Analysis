@@ -26,6 +26,10 @@ The dataset is sourced from the publicly available **[Inside Airbnb platform](ht
 - 🗓️ Reviews  
 ---
 
+## 🔄 Project Workflow
+![AirBNB project workflow](assets/workflow.png)
+---
+
 ## 🛠️ Tech Stack
 
 - **SQL** (PostgreSQL)
